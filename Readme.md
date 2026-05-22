@@ -5,7 +5,7 @@ compile-journal
 - Entries are sorted into Journal.md with a date tree structure: Year, Month, Day, Time with corresponding markdown headers.
 - After entries are compiled together they are moved an archive folder. Nothing is ever deleted or lost.
 
-It's set up for my personal use and folder structure so you may want to modify to fit your setup. I like neovim, but you could generate your entry with whatever app you want as long as the filename follows the naming convention in compile-journal,py. I recommend setting up aliases in your bashrc to make the process as painless and low friction as possible:
+It's set up for my personal use and folder structure so you may want to modify to fit your setup. I like neovim, but you could generate your entry with whatever app you want as long as the filename follows the naming convention in compile-journal.py. I recommend setting up aliases in your bashrc to make the process as painless and low friction as possible:
 
 
 ```bash
